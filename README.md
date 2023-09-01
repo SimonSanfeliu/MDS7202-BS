@@ -4,4 +4,3 @@ Guardado de Laboratorios del curso "MDS7202 - Laboratorio de Programación Cient
 Laboratorios:
 1. [Laboratorio 1: Git 👾](https://github.com/SimonSanfeliu/MDS7202-BS/tree/main/L1)
 
-
