@@ -6,6 +6,7 @@ Laboratorios:
 2. [Laboratorio 2: Primeros pasos 👣](https://github.com/SimonSanfeliu/MDS7202-BS/tree/main/L2)
 3. [Laboratorio 3: Imagenes 📷](https://github.com/SimonSanfeliu/MDS7202-BS/tree/main/L3)
 4. [Laboratorio 4: El Pandas no muerde (act. I) 🐼](https://github.com/SimonSanfeliu/MDS7202-BS/tree/main/L4)
+5. [Laboratorio 5: El Pandas no muerde (act. II) 🐼](https://github.com/SimonSanfeliu/MDS7202-BS/tree/main/L5)
 
 
 
