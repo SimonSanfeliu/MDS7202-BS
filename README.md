@@ -8,3 +8,4 @@ Laboratorios:
 4. [Laboratorio 4: El Pandas no muerde (act. I) 🐼](https://github.com/SimonSanfeliu/MDS7202-BS/tree/main/L4)
 5. [Laboratorio 5: El Pandas no muerde (act. II) 🐼](https://github.com/SimonSanfeliu/MDS7202-BS/tree/main/L5)
 6. [Laboratorio 6: El Pandas no muerde (act. III) 🐼](https://github.com/SimonSanfeliu/MDS7202-BS/tree/main/L6)
+7. [Laboratorio 7: La desperación de Mr. Lepin 🐼](https://github.com/SimonSanfeliu/MDS7202-BS/tree/main/L7)
