@@ -1,3 +1,14 @@
+Reporte de variables 
+
+Name                                      Name
+Type                                    object
+Number of observations                  271116
+Unique                                  134732
+Top                       Robert Tait McKenzie
+Freq                                        58
+Missing cells                                0
+Missing cells (%)                        0.0 %
+
 Name                            Year
 Type                           int64
 Number of observations      271116.0
@@ -17,3 +28,4 @@ Outliers                           0
 Outliers (%)                   0.0 %
 Missing cells                      0
 Missing cells (%)              0.0 %
+
