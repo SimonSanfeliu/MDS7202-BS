@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+####### Proyecto 1
+# scale
+Proyecto/EDA_06-11-2023/scale/
+
 # Distribution / packaging
 .Python
 build/
