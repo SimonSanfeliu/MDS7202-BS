@@ -1,0 +1,141 @@
+Reporte de variables 
+
+Name                                ID
+Type                             int64
+Number of observations        271116.0
+Mean                      68248.954396
+Std                       39022.286345
+Min                                1.0
+25%                            34643.0
+50%                            68205.0
+75%                          102097.25
+100%                          135571.0
+Max                           135571.0
+Negative                             0
+Negative (%)                     0.0 %
+Zeros                                0
+Zeros (%)                        0.0 %
+Outliers                             0
+Outliers (%)                     0.0 %
+Missing cells                        0
+Missing cells (%)                0.0 %
+
+Name                                      Name
+Type                                    object
+Number of observations                  271116
+Unique                                  134732
+Top                       Robert Tait McKenzie
+Freq                                        58
+Missing cells                                0
+Missing cells (%)                        0.0 %
+
+Name                         Sex
+Type                      object
+Number of observations    271116
+Unique                         2
+Top                            M
+Freq                      196594
+Missing cells                  0
+Missing cells (%)          0.0 %
+
+Name                               Team
+Type                             object
+Number of observations           271116
+Unique                             1184
+Top                       United States
+Freq                              17847
+Missing cells                         0
+Missing cells (%)                 0.0 %
+
+Name                         NOC
+Type                      object
+Number of observations    271116
+Unique                       230
+Top                          USA
+Freq                       18853
+Missing cells                  0
+Missing cells (%)          0.0 %
+
+Name                            Games
+Type                           object
+Number of observations         271116
+Unique                             51
+Top                       2000 Summer
+Freq                            13821
+Missing cells                       0
+Missing cells (%)               0.0 %
+
+Name                            Year
+Type                           int64
+Number of observations      271116.0
+Mean                      1978.37848
+Std                        29.877632
+Min                           1896.0
+25%                           1960.0
+50%                           1988.0
+75%                           2002.0
+100%                          2016.0
+Max                           2016.0
+Negative                           0
+Negative (%)                   0.0 %
+Zeros                              0
+Zeros (%)                      0.0 %
+Outliers                           0
+Outliers (%)                   0.0 %
+Missing cells                      0
+Missing cells (%)              0.0 %
+
+Name                      Season
+Type                      object
+Number of observations    271116
+Unique                         2
+Top                       Summer
+Freq                      222552
+Missing cells                  0
+Missing cells (%)          0.0 %
+
+Name                        City
+Type                      object
+Number of observations    271116
+Unique                        42
+Top                       London
+Freq                       22426
+Missing cells                  0
+Missing cells (%)          0.0 %
+
+Name                          Sport
+Type                         object
+Number of observations       271116
+Unique                           66
+Top                       Athletics
+Freq                          38624
+Missing cells                     0
+Missing cells (%)             0.0 %
+
+Name                                        Event
+Type                                       object
+Number of observations                     271116
+Unique                                        765
+Top                       Football Men's Football
+Freq                                         5733
+Missing cells                                   0
+Missing cells (%)                           0.0 %
+
+Name                        Medal
+Type                       object
+Number of observations      39783
+Unique                          3
+Top                          Gold
+Freq                        13372
+Missing cells              231333
+Missing cells (%)         85.33 %
+
+Name                      age-height-weight
+Type                                 object
+Number of observations               271116
+Unique                                82971
+Top                             nan*nan?nan
+Freq                                   2126
+Missing cells                             0
+Missing cells (%)                     0.0 %
+

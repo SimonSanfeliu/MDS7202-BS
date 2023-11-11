@@ -1,0 +1,10 @@
+Reporte de variable 
+
+Name                      age-height-weight
+Type                                 object
+Number of observations               271116
+Unique                                82971
+Top                             nan*nan?nan
+Freq                                   2126
+Missing cells                             0
+Missing cells (%)                     0.0 %
