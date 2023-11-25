@@ -9,7 +9,9 @@ Laboratorios:
 5. [Laboratorio 5: El Pandas no muerde (act. II) 🐼](https://github.com/SimonSanfeliu/MDS7202-BS/tree/main/L5)
 6. [Laboratorio 6: El Pandas no muerde (act. III) 🐼](https://github.com/SimonSanfeliu/MDS7202-BS/tree/main/L6)
 7. [Laboratorio 7: La desperación de Mr. Lepin 🐼](https://github.com/SimonSanfeliu/MDS7202-BS/tree/main/L7)
-8. [Laboratorio 9: Optimización de modelos 💯](https://github.com/SimonSanfeliu/MDS7202-BS/tree/main/L9)
+8. XD
+9. [Laboratorio 9: Optimización de modelos 💯](https://github.com/SimonSanfeliu/MDS7202-BS/tree/main/L9)
+10. [Laboratorio 10: Interpretabilidad 🤖](https://github.com/SimonSanfeliu/MDS7202-BS/tree/main/L10)
 
 Proyectos:
 1. [Proyecto 1 - MDS7202 Laboratorio de Programación Científica para Ciencia de Datos 📚](https://github.com/SimonSanfeliu/MDS7202-BS/tree/main/Proyecto1)
