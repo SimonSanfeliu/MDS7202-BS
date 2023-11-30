@@ -12,6 +12,7 @@ Laboratorios:
 8. XD
 9. [Laboratorio 9: Optimización de modelos 💯](https://github.com/SimonSanfeliu/MDS7202-BS/tree/main/L9)
 10. [Laboratorio 10: Interpretabilidad 🤖](https://github.com/SimonSanfeliu/MDS7202-BS/tree/main/L10)
+11. XD
 
 Proyectos:
 1. [Proyecto 1 - MDS7202 Laboratorio de Programación Científica para Ciencia de Datos 📚](https://github.com/SimonSanfeliu/MDS7202-BS/tree/main/Proyecto1)
