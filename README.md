@@ -16,3 +16,4 @@ Laboratorios:
 
 Proyectos:
 1. [Proyecto 1 - MDS7202 Laboratorio de Programación Científica para Ciencia de Datos 📚](https://github.com/SimonSanfeliu/MDS7202-BS/tree/main/Proyecto1)
+2. [Proyecto 2 - MDS7202 Laboratorio de Programación Científica para Ciencia de Datos 📚](https://github.com/SimonSanfeliu/MDS7202-BS/tree/main/Proyecto2)
