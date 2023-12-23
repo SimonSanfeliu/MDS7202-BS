@@ -1,6 +1,0 @@
-# Omitiendo la carpeta de videos
-/videos
-
-# Omitiendo todos los archivos .txt
-/texts/*.txt
-!/texts/171.txt
